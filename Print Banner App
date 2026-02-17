@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args) {
+
+        System.out.println("  OOOOO    OOOOO    PPPPP    SSSSS ");
+        System.out.println(" OO   OO  OO   OO   PP   PP  SS    ");
+        System.out.println("OO     OO OO     OO PP   PP  SS    ");
+        System.out.println("OO     OO OO     OO PPPPP     SSSSS ");
+        System.out.println("OO     OO OO     OO PP            SS");
+        System.out.println(" OO   OO  OO   OO   PP            SS");
+        System.out.println("  OOOOO    OOOOO    PP       SSSSS ");
+        System.out.println("                                   ");
+        System.out.println("           OOPS                    ");
+    }
+}
